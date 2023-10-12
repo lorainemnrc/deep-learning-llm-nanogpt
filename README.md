@@ -1,4 +1,4 @@
-![banner](https://github.com/lorainemnrc/llm-nanogpt/assets/23328647/ae95b2fe-cdc1-4103-aaa5-e75410cd6b9d)
+![banner](https://github.com/lorainemnrc/llm-nanogpt/assets/23328647/d77ee7e1-d0a2-4436-bffe-dad249d48896)
 
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
